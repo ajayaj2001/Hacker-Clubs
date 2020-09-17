@@ -3,7 +3,7 @@ import './Section1Explore.scss'
 const Section1Explore = props => {
     return (
         <div>
-            <section id={props.id} className={props.class}>
+            <section id={props.id} className={props.text}>
                 <div className="container">
                     <div className="row">
                         <div className="col text-center">
