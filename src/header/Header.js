@@ -3,7 +3,7 @@ import "./Header.scss"
 const Header = () => {
     return (
         <div>
-            <nav className="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" id="home-headers">
+            <nav className="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" >
                 <div className="container">
                     <button className="navbar-toggler" data-toggle="collapse" data-target="#nav-handburger">
                         <span className="navbar-toggler-icon"></span>
@@ -12,7 +12,7 @@ const Header = () => {
                     <div className="collapse navbar-collapse " id="nav-handburger">
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-items">
-                                <a href="home-headers" className="nav-link">HOME</a>
+                                <a href="home-header" className="nav-link">HOME</a>
                             </li>
                             <li className="nav-items">
                                 <a href="#explore-head" className="nav-link">EXPLORE</a>
