@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfcdb28102f4bbf991b4bbc5fc14227f",
+    "revision": "0eebbd0b1bd3b5cfcf2a39ab9cd834de",
     "url": "/Hacker-Clubs/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hacker-Clubs/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "2e3de9ebf911daa726ee",
+    "revision": "1b217004a2556624e590",
     "url": "/Hacker-Clubs/static/css/main.9bdce7c4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hacker-Clubs/static/js/2.4186a04d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e3de9ebf911daa726ee",
-    "url": "/Hacker-Clubs/static/js/main.dd56d869.chunk.js"
+    "revision": "1b217004a2556624e590",
+    "url": "/Hacker-Clubs/static/js/main.dc356786.chunk.js"
   },
   {
     "revision": "16a0eb2dd7bab03d6196",
