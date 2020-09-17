@@ -3,7 +3,6 @@ import './Section1Explore.scss'
 const Section1Explore = props => {
     return (
         <div>
-            {props.text}
             <section id={props.id} className={props.text}>
                 <div className="container">
                     <div className="row">
