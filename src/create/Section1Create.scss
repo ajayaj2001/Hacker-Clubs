@@ -1,0 +1,15 @@
+$primary-color: #008ed6;
+$symbol-size: 25px;
+
+#creat-section {
+    color: #fff;
+    background-color: #333;
+
+    .fa-icon {
+        color: $primary-color;
+        background-color: white;
+        padding: 4px;
+        border-radius: 5px;
+        font-size: $symbol-size;
+    }
+}

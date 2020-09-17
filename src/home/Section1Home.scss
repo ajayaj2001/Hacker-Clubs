@@ -1,0 +1,31 @@
+$dark: rgba(0, 0, 0, 0.7);
+$primary-color: #008ed6;
+$symbol-size: 25px;
+#home-header {
+    background-image: url("./hacker-header-2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    color: white;
+    .dark-overlap {
+        background-color: $dark;
+        position: absolute;
+        width: 100%;
+        min-height: 700px;
+        top: 0;
+        left: 0;
+    }
+    .home-inner {
+        padding-top: 150px;
+    }
+    .card-form {
+        opacity: 0.8;
+    }
+    .fa-icon {
+        background-color: white;
+        color: $primary-color;
+        font-size: $symbol-size;
+        padding: 4px;
+        border-radius: 5px;
+    }
+}
