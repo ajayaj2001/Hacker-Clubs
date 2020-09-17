@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f262a14.chunk.css",
-    "main.js": "/static/js/main.afe0ddc7.chunk.js",
-    "main.js.map": "/static/js/main.afe0ddc7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.92f5cab5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.92f5cab5.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.e35ef70d.chunk.js": "/static/js/2.e35ef70d.chunk.js",
-    "static/js/2.e35ef70d.chunk.js.map": "/static/js/2.e35ef70d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cf68a8b8e281ae73a96290a0b7519efe.js": "/precache-manifest.cf68a8b8e281ae73a96290a0b7519efe.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.4f262a14.chunk.css.map": "/static/css/main.4f262a14.chunk.css.map",
-    "static/js/2.e35ef70d.chunk.js.LICENSE.txt": "/static/js/2.e35ef70d.chunk.js.LICENSE.txt"
+    "main.css": "/Hacker-Clubs/static/css/main.42f34299.chunk.css",
+    "main.js": "/Hacker-Clubs/static/js/main.cf25ed8f.chunk.js",
+    "main.js.map": "/Hacker-Clubs/static/js/main.cf25ed8f.chunk.js.map",
+    "runtime-main.js": "/Hacker-Clubs/static/js/runtime-main.c374e1d3.js",
+    "runtime-main.js.map": "/Hacker-Clubs/static/js/runtime-main.c374e1d3.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Hacker-Clubs/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4186a04d.chunk.js": "/Hacker-Clubs/static/js/2.4186a04d.chunk.js",
+    "static/js/2.4186a04d.chunk.js.map": "/Hacker-Clubs/static/js/2.4186a04d.chunk.js.map",
+    "index.html": "/Hacker-Clubs/index.html",
+    "precache-manifest.549f2c6c05471024f066be214fe9b671.js": "/Hacker-Clubs/precache-manifest.549f2c6c05471024f066be214fe9b671.js",
+    "service-worker.js": "/Hacker-Clubs/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Hacker-Clubs/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.42f34299.chunk.css.map": "/Hacker-Clubs/static/css/main.42f34299.chunk.css.map",
+    "static/js/2.4186a04d.chunk.js.LICENSE.txt": "/Hacker-Clubs/static/js/2.4186a04d.chunk.js.LICENSE.txt",
+    "static/media/creat-section-2.jpg": "/Hacker-Clubs/static/media/creat-section-2.a7da8131.jpg",
+    "static/media/explore-section.jpg": "/Hacker-Clubs/static/media/explore-section.8281b18c.jpg",
+    "static/media/Section1Home.scss": "/Hacker-Clubs/static/media/hacker-header-2.7831633b.jpg",
+    "static/media/share-section.jpg": "/Hacker-Clubs/static/media/share-section.27a4f122.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.92f5cab5.js",
+    "static/js/runtime-main.c374e1d3.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.e35ef70d.chunk.js",
-    "static/css/main.4f262a14.chunk.css",
-    "static/js/main.afe0ddc7.chunk.js"
+    "static/js/2.4186a04d.chunk.js",
+    "static/css/main.42f34299.chunk.css",
+    "static/js/main.cf25ed8f.chunk.js"
   ]
 }
